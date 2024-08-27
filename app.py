@@ -1,2 +1,4 @@
-import streamlit as st
+#importação dos pacotes
 
+import streamlit as st
+import pandas as pd
