@@ -36,6 +36,7 @@ while not erro == 0:
 
     iteration += 1
 
-    print(iteration)
+    print("A rede demorou", iteration, "vezes para aprender")
 
 print("A rede aprendeu!!")
+print("o peso é", input_weight)
